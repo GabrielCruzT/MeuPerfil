@@ -1,5 +1,5 @@
 # Welcome!
-## My name is Gabriel Cruz Tancredo and this is my github. 
+## I'm Gabriel and this is my github. 
 
 <div>
   <a href = "https://github.com/GabrielCruzT">
